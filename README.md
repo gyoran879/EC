@@ -21,3 +21,9 @@
 商品一覧ページ
 
 ![商品一覧ページ](https://user-images.githubusercontent.com/92624621/184501184-62a1873e-4c63-4546-ba36-26afdb08cf26.png)
+
+ショッピングカートページ
+
+![ショッピングカートページ](https://user-images.githubusercontent.com/92624621/184501298-bffb3c01-07de-43b9-9f74-72efc39479a2.png)
+![ショッピングカートページ(2)](https://user-images.githubusercontent.com/92624621/184501304-b6e601c7-f28e-4bb3-9c26-84270f632a38.png)
+
