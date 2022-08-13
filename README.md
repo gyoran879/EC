@@ -27,3 +27,8 @@
 ![ショッピングカートページ](https://user-images.githubusercontent.com/92624621/184501298-bffb3c01-07de-43b9-9f74-72efc39479a2.png)
 ![ショッピングカートページ(2)](https://user-images.githubusercontent.com/92624621/184501304-b6e601c7-f28e-4bb3-9c26-84270f632a38.png)
 
+購入完了ページ
+
+![購入完了ページ](https://user-images.githubusercontent.com/92624621/184501444-65087dca-6458-426c-a9e9-8dcbbe44457a.png)
+![購入完了ページ(2)](https://user-images.githubusercontent.com/92624621/184501445-66eab53f-a2dc-4b57-b99a-bfa897d233f8.png)
+
